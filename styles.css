@@ -1,0 +1,43 @@
+/* my colors: tan - #CCCCAC / green - #4E9780 / blue - #066492 */
+
+*{
+	background-color: #CCCCAC;
+	color: #066492;
+	font-family: Courier
+}
+
+title{
+	border: 3px solid #4E9780;
+	margin: center;
+	font-size: 3em;
+}
+
+header{
+	border: 3px solid #4E9780;
+	text-align: center;
+	font-size: 3em;
+}
+
+body{
+	margin: 10px;
+}
+
+img{
+	border: 3px solid #4E9780;
+}
+
+h1{
+	margin: center;
+	font-size: 1.5em;
+}
+
+footer{
+	font-size: 1em;
+	margin: center;
+}
+
+article{
+	align-self: center;
+}
+	
+
